@@ -6,7 +6,7 @@
 
 ## Kiên kết
 - [html1](https://drive.google.com/file/d/1dlbfBU_g_9FBH4zjn-Ujg-Rapit7z5hM/view?usp=sharing)
-- [html2](https://drive.google.com/file/d/1dlbfBU_g_9FBH4zjn-Ujg-Rapit7z5hM/view?usp=sharing)
+- [html2](https://drive.google.com/file/d/1aRF3dO6t67I6-b3pdfxfRGCNX-LxDAG-/view?usp=sharing)
 ## Kiến thức nắm được
 - Sử dụng draw.io vẽ giao diện
 
